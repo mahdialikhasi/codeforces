@@ -51,7 +51,7 @@ int main(){
 				count++;
 			else{
 				rep.push_back(count);
-				count = 0;
+				count = 1;
 			}
 		}
 		rep.push_back(count);
@@ -74,7 +74,7 @@ int main(){
 				count++;
 			else{
 				rep.push_back(count);
-				count = 0;
+				count = 1;
 			}
 		}
 		rep.push_back(count);
@@ -95,7 +95,7 @@ int main(){
 				count++;
 			else{
 				rep.push_back(count);
-				count = 0;
+				count = 1;
 			}
 		}
 		rep.push_back(count);
